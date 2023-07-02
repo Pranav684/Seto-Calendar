@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a calendar application.__
+This project is a calendar application.\
 Features :
 - Month view for the calendar
 - Adding Events and managing them.
