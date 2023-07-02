@@ -37,4 +37,6 @@ Dependencies:
 - firebase_auth: ^4.6.3
     - use the firebase authentication to login to google account
 
+This App is tested for Android only. You can run it by simply opening on an editer with flutter friendly environment and the following dependencies.\
+
 // Most of the tasks are completed but Syncing the events data with google calendar is not working right now. I have'nt done this before and need assistance to complete it. 
