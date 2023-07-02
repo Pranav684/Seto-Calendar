@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509399802332",
+    "project_id": "setocalendar-391509",
+    "storage_bucket": "setocalendar-391509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509399802332:android:6f69cceb91b74b50556f19",
+        "android_client_info": {
+          "package_name": "com.example.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509399802332-og0qd1bcfjdqs77aj78vieugu9ja27ar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calendar",
+            "certificate_hash": "6d91970deb93927130423e1679c2165742aaa690"
+          }
+        },
+        {
+          "client_id": "509399802332-hi1v4kb6ri5ljqat4i0s3jb7fg6f4hcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrQXdIgMf2UWTDMDLMJK_9gQiqOOV4vf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509399802332-hi1v4kb6ri5ljqat4i0s3jb7fg6f4hcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
