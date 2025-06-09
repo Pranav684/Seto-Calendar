@@ -39,4 +39,3 @@ Dependencies:
 
 This App is tested for Android only. You can run it by simply opening on an editer with flutter friendly environment and the following dependencies.
 
-// Most of the tasks are completed but Syncing the events data with google calendar is not working right now. I haven't done this before and need assistance to complete it. 
